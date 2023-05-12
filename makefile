@@ -5,7 +5,7 @@ OBJ = $(SRC:.cpp=.o)
 CC = x86_64-w64-mingw64-g++
 CCL = g++
 
-FLAG = -lncurses
+FLAG = -lncurses -pthread
 
 NAME = SatisTUI
 

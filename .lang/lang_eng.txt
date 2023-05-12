@@ -1,0 +1,14 @@
+POWER_GENERATED=Energy Produced
+POWER_USED=Energy Used
+POWER_MAXCONSO=Energy (Usage/Max)
+POWER_PLAN_STAT=Power Plan Stat
+
+STATPANE_POWER_GENERATED=Energy Produced (KW/t):
+STATPANE_POWER_USED=Energy Used (KW/t):
+STATPANE_POWER_MAXCONSO=Power Plan Max Usage:
+STATPANE_POWER_PLAN_STAT=Power Plan Stat:
+
+NOT_INSTALLED=Not Installed
+ONLINE=Online
+OFFLINE=Offline
+OVERLOAD=Overload

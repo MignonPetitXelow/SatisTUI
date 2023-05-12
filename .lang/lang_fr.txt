@@ -1,0 +1,14 @@
+POWER_GENERATED=Energie generee
+POWER_USED=Energie utilise
+POWER_MAXCONSO=Energie (conso/max)
+POWER_PLAN_STAT=Etat du site electrique
+
+STATPANE_POWER_GENERATED=Energie generee (KW/s):
+STATPANE_POWER_USED=Energie utilise (KW/s):
+STATPANE_POWER_MAXCONSO=Energie (conso/max):
+STATPANE_POWER_PLAN_STAT=Etat du site electrique:
+
+NOT_INSTALLED=Aucune installation
+ONLINE=En ligne
+OFFLINE=Hors ligne
+OVERLOAD=Surcharger
